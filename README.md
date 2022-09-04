@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/k1g0x33spt2a81x7/branch/master?svg=true)](https://ci.appveyor.com/project/Korartol/javaauto1-2-2/branch/master)
